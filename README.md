@@ -12,9 +12,14 @@ _1 TIL and counting..._
 
 ### Categories
 
+* [git](#git)
 * [Testing](#testing)
 
 ---
+
+### Git
+
+- [Rename local branch in git](git/rename-branch.md)
 
 ### Testing
 
