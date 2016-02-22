@@ -13,6 +13,7 @@ _2 TILs and counting..._
 ### Categories
 
 * [git](#git)
+* [JavaScript] (#javascript)
 * [Testing](#testing)
 
 ---
@@ -20,6 +21,10 @@ _2 TILs and counting..._
 ### Git
 
 - [Rename local branch in git](git/rename-branch.md)
+
+### JavaScript
+
+- [var self=this](javascript/self_this.md)
 
 ### Testing
 
